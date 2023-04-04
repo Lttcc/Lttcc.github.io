@@ -1,3 +1,4 @@
-```text
-![Lttcc's GitHub stats](https://github-readme-stats.vercel.app/api?Lttcc=stacklens)
-```
+  <a>
+    <img src="https://raw.githubusercontent.com/Lttcc/Lttcc/main/src/block.gif">
+  </a>
+
